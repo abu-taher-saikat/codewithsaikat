@@ -30,11 +30,14 @@
   }
 
   .send-message-button{
-      /* padding: 10px 10px; */
+      padding: 10px 10px;
       background-color: #ffffff;
       /* margin: 10px; */
-      border: 1px solid black;
+      border: 2px solid black;
+      border-radius: 5px;
       width: 100%;
+      color: var(--working-well);
+      font-weight: bold;
   }
 
 
